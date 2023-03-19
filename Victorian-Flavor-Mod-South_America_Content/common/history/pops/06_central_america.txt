@@ -138,11 +138,11 @@
 		region_state:HAI = {
 			create_pop = {
 				culture = afro_antillean
-				size = 226020
+				size = 24000
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 24000
+				size = 228020
 			}
 			create_pop = {
 				culture = caribeno

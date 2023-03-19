@@ -94,7 +94,7 @@ POPS = {
 				size = 4000
 			}
 			create_pop = {
-				culture = afro_caribeno
+				culture = afro_antillean
 				size = 14400
 			}
 		}
