@@ -14,3 +14,8 @@ PBC = {	#Peru-Bolivia Confederation
 	pattern = "pattern_solid.tga"
 	color1 = "red"
 }
+
+KGG = { #Kaingang
+	pattern = "pattern_solid.tga"
+	color1 = "dark_purple"
+}

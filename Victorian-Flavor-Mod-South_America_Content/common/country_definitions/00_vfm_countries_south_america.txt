@@ -244,3 +244,14 @@ JUJ = {
 	cultures = { platinean }
 	capital = STATE_JUJUY
 }
+
+KGG = {
+	color = { 127 28 45 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { kaingang }
+	capital = STATE_CORRIENTES
+}

@@ -939,6 +939,12 @@ POPS = {
 				size = 500
 			}
 		}
+		region_state:KGG = {
+			create_pop = {
+				culture = kaingang
+				size = 20500
+			}
+		}
 		region_state:PRG = {
 			create_pop = {
 				culture = platinean
@@ -1150,7 +1156,7 @@ POPS = {
 				size = 210
 			}
 		}
-		region_state:BRZ = {
+		region_state:PRA = {
 			create_pop = {
 				culture = amazonian
 				size = 36800
@@ -1506,51 +1512,27 @@ POPS = {
 		}
 	}
 	s:STATE_PARA = {
-
 		region_state:PRA = {
 			create_pop = {
 				culture = brazilian
-				size = 111297
+				size = 120201
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_brazilian
-				size = 65737
+				size = 70996
 			}
 			create_pop = {
 				culture = afro_brazilian
-				size = 77642
+				size = 83853
 			}
 			create_pop = {
 				culture = amazonian
-				size = 43800
+				size = 47304
 			}
 			create_pop = {
 				culture = tupinamba
-				size = 3646
-			}
-		}
-		region_state:BRZ = {
-			create_pop = {
-				culture = brazilian
-				size = 8904
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 5259
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 6211
-			}
-			create_pop = {
-				culture = amazonian
-				size = 3504
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 292
+				size = 3938
 			}
 			create_pop = {
 				culture = french
