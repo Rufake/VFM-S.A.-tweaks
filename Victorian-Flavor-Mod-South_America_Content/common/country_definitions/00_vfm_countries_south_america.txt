@@ -16,7 +16,7 @@ UCO = {
 
 	tier = kingdom
 
-	cultures = { north_andean }
+	cultures = { south_andean }
 	capital = STATE_URUGUAY
 }
 
