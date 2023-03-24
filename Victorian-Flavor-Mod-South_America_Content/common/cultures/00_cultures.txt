@@ -11668,7 +11668,7 @@ amazonian={
 	graphics = generic
 }
 
-patagonian={
+araucanian={
 	color=hsv{ 0.23 0.24 0.9 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }

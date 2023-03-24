@@ -227,7 +227,7 @@ peru_bolivia_confederation.3 = { #Division of Peru
 		s:STATE_LA_PAZ = {
 			set_owner_of_provinces = {
 				country = c:ESP
-				provinces = { x49B0BF x32FA5C x20F378 x2410B7 x7B4D37 xB5966F x49B3A4 xF79A14 x4C4D63 x0A51AC x11DE6C x1A8BA1 }
+				provinces = { x49B0BF x32FA5C x20F378 x2410B7 x7B4D37 xB5966F xF79A14 x4C4D63 x0A51AC x1A8BA1 }
 			}
 		}
 		s:STATE_ICA = {

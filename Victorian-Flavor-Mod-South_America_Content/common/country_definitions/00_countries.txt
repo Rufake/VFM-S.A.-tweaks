@@ -541,7 +541,7 @@ PAR = {
 }
 
 PRA = { #Gao-Para
-	color = { 136  117  90 }
+	color = { 117 32 36 }
 	
 	country_type = recognized
 
@@ -2098,7 +2098,7 @@ CHL = {
 	
 	tier = kingdom
 	
-	cultures = { south_andean }
+	cultures = { chilean }
 	capital = STATE_SANTIAGO
 }
 

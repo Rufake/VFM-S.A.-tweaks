@@ -16,6 +16,7 @@
 			}
 		}			
 	}
+
 	c:BRZ = {
 		create_diplomatic_play = {
 			name = cabanagem_war
@@ -38,4 +39,3 @@
 			}
 		}	
 	}
-}
