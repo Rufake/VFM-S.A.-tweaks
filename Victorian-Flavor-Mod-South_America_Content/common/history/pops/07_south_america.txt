@@ -1086,7 +1086,7 @@ POPS = {
 		region_state:SJN = {
 			create_pop = {
 				culture = chilean
-				size = 9019
+				size = 2000
 			}
 			create_pop = {
 				culture = platinean
